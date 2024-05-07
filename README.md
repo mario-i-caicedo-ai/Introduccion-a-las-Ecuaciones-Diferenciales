@@ -2,4 +2,4 @@
 
 # Cuadernos Jupyter
 
-[Cuadernos_Jupyter/Sol_Num_de_EDO.ipynb](Cuadernos_Jupyter/Sol_Num_de_EDO.ipynb)
+[Resolución Numérica de ODE's](Cuadernos_Jupyter/Sol_Num_de_EDO.ipynb)
