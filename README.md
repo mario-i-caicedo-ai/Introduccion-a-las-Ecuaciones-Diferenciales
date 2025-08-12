@@ -4,7 +4,7 @@
 
 ## Bienvenidos
 
-Una larga experiencia como docente en investigador en Fisica me ensenho algunas cosas acerca de las dificultaes que encuentran los estudiantes tanto de pregrado como de postgrado cuando intenta adquirir o aplicar conocimientos acerca de ecuaciones diferenciales. Este repositorio pretende ayudar a reducir ese problema.
+Una larga experiencia como docente en investigador en Física me enseñó algunas cosas acerca de las dificultaes que encuentran los estudiantes tanto de pregrado como de postgrado cuando intenta adquirir o aplicar conocimientos acerca de ecuaciones diferenciales. Este repositorio pretende ayudar a reducir ese problema.
 
 ## Descripción
 
