@@ -1,6 +1,11 @@
 
 
 
+
+## Bienvenidos
+
+Una larga experiencia como docente en investigador en Fisica me ensenho algunas cosas acerca de las dificultaes que encuentran los estudiantes tanto de pregrado como de postgrado cuando intenta adquirir o aplicar conocimientos acerca de ecuaciones diferenciales. Este repositorio pretende ayudar a reducir ese problema.
+
 ## Descripción
 
 Una ecuación diferencial es una ecuación que involucra derivadas de una función desconocida con respecto a una o más variables independientes. En otras palabras, es una relación matemática que conecta una función con sus tasas de cambio. Estas ecuaciones son fundamentales en diversas áreas de la ciencia y la ingeniería, ya que permiten modelar fenómenos que involucran cambios y tasas de variación.
