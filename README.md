@@ -20,8 +20,17 @@ Las ecuaciones diferenciales son herramientas esenciales para modelar y entender
 * Biología: Describen el crecimiento de poblaciones, la propagación de enfermedades y el comportamiento de sistemas biológicos. 
 * Economía: Se aplican en modelos de crecimiento económico, análisis de mercados y otros fenómenos económicos. 
 
-# Introduccion-a-las-Ecuaciones-Diferenciales-Ordinarias
 
-# Cuadernos Jupyter
+## Notas
+
+
+## Introduccion a las Ecuaciones Diferenciales Ordinarias
+
+### Cuadernos Jupyter
 
 [Resolución Numérica de ODE's](Cuadernos_Jupyter/Sol_Num_de_EDO.ipynb)
+
+
+## Introduccion a las Ecuaciones Diferenciales en Derivadas Parciales
+
+### Cuadernos Jupyter
