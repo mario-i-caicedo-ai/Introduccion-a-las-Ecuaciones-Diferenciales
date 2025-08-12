@@ -28,6 +28,7 @@ Las ecuaciones diferenciales son herramientas esenciales para modelar y entender
 
 ## Notas
 
+[Notas Acerca de Ecuaciones Diferenciales](Notas/Notas_Acerca_de_Ecuaciones_Diferenciales.pdf)
 
 ## Introduccion a las Ecuaciones Diferenciales Ordinarias
 
