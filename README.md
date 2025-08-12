@@ -36,6 +36,3 @@ Las ecuaciones diferenciales son herramientas esenciales para modelar y entender
 [Resolución Numérica de ODE's](Cuadernos_Jupyter/Sol_Num_de_EDO.ipynb)
 
 
-## Introduccion a las Ecuaciones Diferenciales en Derivadas Parciales
-
-### Cuadernos Jupyter
